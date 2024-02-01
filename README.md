@@ -8,4 +8,4 @@ We will focus on examining these variables and other aspects of the data to iden
 
 The next stages of our analysis will include data preprocessing, exploratory data analysis, model building, and model evaluation.
 
-Dataset taken from: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data](https://www.kaggle.com/competitions/sf-dst-scoring)
+Dataset taken from: https://www.kaggle.com/competitions/sf-dst-scoring
