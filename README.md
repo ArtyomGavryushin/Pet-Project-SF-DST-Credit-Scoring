@@ -7,3 +7,5 @@ The data to be analyzed is a set provided on the Kaggle platform called "[SF-DST
 We will focus on examining these variables and other aspects of the data to identify and determine the significant factors that influence a customer's probability of default. An effective scoring model built on these analyses will allow the bank to more accurately assess risk in making loans and make more informed decisions.
 
 The next stages of our analysis will include data preprocessing, exploratory data analysis, model building, and model evaluation.
+
+Dataset taken from: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data](https://www.kaggle.com/competitions/sf-dst-scoring)
